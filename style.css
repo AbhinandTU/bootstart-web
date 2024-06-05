@@ -1,0 +1,70 @@
+nav{
+  height: 93px;
+}
+ul{
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.navbar-brand{
+  width: 123px;
+height: 35.78px;
+top: 28.29px;
+left: 50px;
+}
+
+/* font family */
+
+.belleza{
+  font-family: "Belleza", sans-serif;
+  font-weight: 400;
+  font-size: 90px;
+  /* not working */
+
+  size: 606px !important;
+  font-style: normal;
+  line-height: 110.59px;
+  letter-spacing: -0.5px;
+}
+
+
+
+
+.main-image{
+  width: 90%;
+
+}
+
+.white{
+  width: 100%;
+  height: 50%;
+  background-color: white;
+}
+.brown{
+  width: 100%;
+  height: 50%;
+  background-color: black;
+}
+.main-section{
+  height: fit-content;
+}
+.ededed{
+  width: 100% !important;
+  height: 40% !important;
+  background-color: aqua !important;
+}
+.color{
+  width: 100%;
+  height: 40%;
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  background-color: #ededed;
+}
+.slide-imgage{
+  width: 350px;
+}
+.slide-imgage2{
+  width: 350px;
+  height: 525px;
+}
